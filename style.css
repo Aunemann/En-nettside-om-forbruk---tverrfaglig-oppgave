@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-    background-color: #202020; /* Farge for bakgrunnen */
+    background-color: black; /* Farge for bakgrunnen */
     color: white; /* Farge for text i boxene */
     font-family: "Raleway", sans-serif;
     margin: 0;
